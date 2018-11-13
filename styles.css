@@ -92,7 +92,7 @@ li {
   background-color: grey;
   color: white;
   text-align: center;
-  height: 80px;
+  height: 40px;
   margin-top: 200px;
-  margin-bottom : -10px;
-}
+  padding-top: 10px;
+  }

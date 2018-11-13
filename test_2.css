@@ -26,5 +26,12 @@ body {
 .block_2 {
   background-color: #FF0DFF;
   grid-column:
-  grid-row: 
+  grid-row:
+  }
+
+
+.block_3 {
+  background-color: #blue;
+  grid-column:
+  grid-row:
   }
