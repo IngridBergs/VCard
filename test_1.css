@@ -1,0 +1,16 @@
+body {
+  color: white;
+  margin:0px;
+  padding:0px;
+  font-size:20px;
+  font-weight:bold;
+  background-color: #067572;
+  }
+
+ .container {
+  display: grid;
+  grid-template-columns: 
+  grid-template-rows:
+  grid-column-gap: 10px;
+
+}
